@@ -1,0 +1,66 @@
+/*****************************
+ All rights reserved.
+ www.allfont.es (c) 2011-2015
+ *****************************/
+
+ 
+
+/* @font-face {
+    font-family: 'Exo Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Exo Regular'), local('Exo-Regular'),
+        url(http://www.allfont.es/cache/fonts/exo-regular_c41618bfad5468d0dfdc18f15dbb38f0.woff) format('woff'),
+        url(http://www.allfont.es/cache/fonts/exo-regular_c41618bfad5468d0dfdc18f15dbb38f0.ttf) format('truetype');
+} */
+
+/* @font-face {
+    font-family: 'Exo Medium';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Exo Medium'), local('Exo-Medium'),
+        url(http://www.allfont.es/cache/fonts/exo-medium_13b6ecdecf1c26d8f0a83abcd10cf728.woff) format('woff'),
+        url(http://www.allfont.es/cache/fonts/exo-medium_13b6ecdecf1c26d8f0a83abcd10cf728.ttf) format('truetype');
+} */
+
+/* @font-face{
+    font-family:exo bold italic;
+    font-style:italic;
+    font-weight:700;
+    src:local('Exo Bold Italic'),local('Exo-Bold Italic'),
+    url(http://allfont.net/cache/fonts/exo-bold-italic_2b9afa1450ab8221a4cce6d784727c2f.woff) format('woff'),
+    url(http://allfont.net/cache/fonts/exo-bold-italic_2b9afa1450ab8221a4cce6d784727c2f.ttf) format('truetype');
+} */
+
+@font-face {
+    font-family: 'Exo Medium Italic';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Exo Medium Italic'), local('Exo-Medium Italic'),
+        url(http://allfont.ru/cache/fonts/exo-medium-italic_583bcbd028e90d2be50a34ef135fde92.woff) format('woff'),
+        url(http://allfont.ru/cache/fonts/exo-medium-italic_583bcbd028e90d2be50a34ef135fde92.ttf) format('truetype');
+}
+@font-face{
+    font-family:exo italic;
+    font-style:italic;
+    font-weight:400;
+    src:local('Exo Italic'),local('Exo-Italic'),
+    url(http://allfont.ru/cache/fonts/exo-italic_9bf7da1f5a3b9f8d56c2cb81686ae380.woff) format('woff'),
+    url(http://allfont.ru/cache/fonts/exo-italic_9bf7da1f5a3b9f8d56c2cb81686ae380.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Exo Black Italic';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Exo Black Italic'), local('Exo-Black Italic'),
+        url(http://allfont.de/cache/fonts/exo-black-italic_9d0e4144de5d3ab9610b1cc26319fbe7.woff) format('woff'),
+        url(http://allfont.de/cache/fonts/exo-black-italic_9d0e4144de5d3ab9610b1cc26319fbe7.ttf) format('truetype');
+}
+@font-face{
+    font-family:exo bold;
+    font-style:normal;
+    font-weight:700;
+    src:local('Exo Bold'),local('Exo-Bold'),
+    url(http://allfont.ru/cache/fonts/exo-bold_17dcc42f7f8e500a38e4951149bf8a97.woff) format('woff'),
+    url(http://allfont.ru/cache/fonts/exo-bold_17dcc42f7f8e500a38e4951149bf8a97.ttf) format('truetype');
+}
